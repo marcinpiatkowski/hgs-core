@@ -1,0 +1,46 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef1"
+            },
+            "Name": "Home Furnishings"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef4"
+            },
+            "Name": "Construction & DIY"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef6"
+            },
+            "Name": "Tools & Hardware"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef10"
+            },
+            "Name": "Garden & Outdoor"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef11"
+            },
+            "Name": "Lighting"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef34"
+            },
+            "Name": "Food Processing"
+        }
+    ]
+}

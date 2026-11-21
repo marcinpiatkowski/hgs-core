@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Narz_dzia</fullName>
+    <columns>NAME</columns>
+    <columns>Parent_category__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>NAME</field>
+        <operation>equals</operation>
+        <value>Accessories,Vacuum Cleaners,Measuring Tools and Equipment,Screwdrivers</value>
+    </filters>
+    <label>Tools &amp; Hardware</label>
+</ListView>

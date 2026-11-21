@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Przetworstwo_warzyw_i_owocow</fullName>
+    <columns>NAME</columns>
+    <columns>Parent_category__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>NAME</field>
+        <operation>equals</operation>
+        <value>Bottles,Wine Making Supplies,Jars,Food dryers</value>
+    </filters>
+    <label>Food Processing</label>
+</ListView>

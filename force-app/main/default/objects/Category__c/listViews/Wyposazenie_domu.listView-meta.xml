@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Wyposazenie_domu</fullName>
+    <columns>NAME</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>NAME</field>
+        <operation>equals</operation>
+        <value>,Bedding and blankets,Pots and Pans,Decorations and ornaments,Furniture,Kitchen Tools,Tableware</value>
+    </filters>
+    <label>Home Furnishings</label>
+</ListView>

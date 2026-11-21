@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>OrderWithoutAddressCantBeSent</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+ISPICKVAL(Status, &quot;Sent&quot;),
+OR(
+ISBLANK( ShippingCity ),
+ISBLANK( ShippingCountry ),
+ISBLANK( ShippingPostalCode ),
+ISBLANK( ShippingStreet ),
+ISBLANK( ShippingState )
+)
+				)</errorConditionFormula>
+    <errorMessage>Order Status cannot be change to &quot;Sent&quot; if shipping address is not provided.</errorMessage>
+</ValidationRule>

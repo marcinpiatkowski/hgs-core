@@ -1,0 +1,407 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref3"
+            },
+            "Name": "Petrol-driven power generator",
+            "ProductCode": "GC1020",
+            "Description": "- Petrol-driven generator with puncture-free wheels for independent use from external power sources at many locations,\r\n- With automatic voltage regulator (AVR) for operating sensitive electrical appliances,\r\n- Power (KW) max.: 2.5 (230V) 7.5 (400V),\r\n- Continuous power (KW): 2.0 (230V) 7.0 (400V),\r\n- Displacement (cm3): 440,\r\n- Rated voltage (V)/current phases: 400/3,\r\n- Fuel: petrol,\r\n- Tank capacity (l): 25,\r\n- Tank level indicator: yes,\r\n- Engine type: 4-stroke air-cooled,\r\n- Engine power (kW/hp): 11.8/16.1,\r\n- Engine oil: 10W-30, 15W-40,\r\n- Oil quantity (l) 1.1,\r\n- Sound pressure level (db A): 76,\r\n- Oil low and overload protection: Yes,\r\n- Electric start function: Yes, with key switch,\r\n- Equipment socket V/A,\r\n- 230V/16A: 2 x,\r\n- CEE 400V/16A: 1 x,\r\n- Running time (h) at 50%/100% output: 7/5.5,\r\n- Generator: Synchronous,\r\n- Protection class: IP23,\r\n- Dimensions (L x W x H) (mm): 743 x 713 x 670,\r\n- Weight (kg): 89.7,\r\n- Unit is supplied without fuel and engine oil.",
+            "Family": "Agregaty_pradowtworcze",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref18"
+            },
+            "Name": "Ceramic-look plastic vase",
+            "ProductCode": "WPN11",
+            "Description": "Made of plastic material, it is unbreakable. It can be matched with different bouquets. It is made of plastic material. Bottom diameter is 15cm, and the height is 30cm. It is suitable for decorating anywhere in the home or office.",
+            "Family": "Wazony plastikowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref19"
+            },
+            "Name": "Classic round pot 300x260mm",
+            "ProductCode": "DP100M",
+            "Description": "Classic plant pot, thanks to its texture, appears to be made of stone, at the same time remaining light and handy.\r\nThe product has improved resistance to sunlight and low temperatures, as well as to mechanical damage, therefore it is a fantastic solution for the garden. \r\nColour: Terracotta\r\nDimensions: 30cmØ (Top) x 17cmØ (Base) x 26cm (H)",
+            "Family": "Doniczki ceramiczne",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref20"
+            },
+            "Name": "Bamboo lantern",
+            "ProductCode": "LB700WK",
+            "Description": "This bold and beautiful lantern is sure to light up wherever it is placed. Its amazing colour blends perfectly with the dancing flame of a candle wick when placed inside.\r\nMaterial: Bamboo\r\nColour: Natural\r\nDimensions: 34 x 95cm",
+            "Family": "Lampiony bambusowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref21"
+            },
+            "Name": "Wave vase",
+            "ProductCode": "WS150",
+            "Description": "Hand blown glass vase.\r\nColor: smoke\r\nHeight: 30 cm",
+            "Family": "Wazony szklane",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref22"
+            },
+            "Name": "Tractor T22",
+            "ProductCode": "X255",
+            "Description": "High comfort thanks to easily accessible controls and stepless foot hydrostat.\r\nComfortable, tool-free adjustable seat and low step-through incl. large legroom.\r\nWide wheels for optimum progress when mowing and excellent traction.\r\nBall bearing mounted, reliable 2-blade mower deck.\r\nEasy conversion to winter operation (with snow blade).\r\nMulching function via mulching plug, practically stowed on the mowing deck.\r\nAL-KO Pro 700 engine with integrated oil pump and oil filter for longer service life.",
+            "Family": "Traktorki ogrodowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref23"
+            },
+            "Name": "Protective gloves Functional Light Comfort 10",
+            "ProductCode": "RO11",
+            "Description": "These protective gloves are designed for professional use in forestry and landscaping work all year round. Upper and water-resistant goat skin palm\r\nThe inner layer of the highly elastic insert absorbs shock and protects your hands inside. Stain resistant rubber wrist Reflective logos for added visibility.\r\nThe second joint of the index finger is touchscreen compatible, so you can operate your smartphone or other devices while wearing gloves.\r\nProduct dimensions: ‎ 24.8 x 9.8 x 1.8 cm.",
+            "Family": "Rękawice ochronne",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref24"
+            },
+            "Name": "Headband hearing protectors",
+            "ProductCode": "OSHQ50",
+            "Description": "Lightweight, flexible padded headband with pressure adjustment. Can be used with or without a hard hat. Hearing protection rating 25dB(A) NRR.",
+            "Family": "Ochronniki słuchu",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref25"
+            },
+            "Name": "Wine demijohn 15L in a plastic basket",
+            "ProductCode": "BS15L",
+            "Description": "A narrow-opening glass demijohn with capacity of 15 L. Intended for fermenting wine, beer, and mead, and for infusion liquors. The removable plastic casing enables washing the carboy thoroughly, while at the same time protecting the glass against shattering. The glass of which the carboys are made is sodium glass that features all the approvals for contact with food products. The advantage of glass carboys is their high tightness and possibility of “peeking” at the fermentation process.",
+            "Family": "Balony do wina",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref26"
+            },
+            "Name": "Glass bottle 250 ml with cap",
+            "ProductCode": "BS02ML",
+            "Description": "These reusable 16 fl oz glass bottles are fantastic for home fermentation. Made of durable, high-quality glass, these bottles will last you a lifetime if well taken care of. Whether you’re making your own kombucha, kefir, ginger beer, hard seltzer, soda or beer, these bottles can handle the pressure! Pressure rated up to 100 psi, these bottles will prevent the dreaded “bottle bombs” from going off in your kitchen.",
+            "Family": "Butelki szklane",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref27"
+            },
+            "Name": "Jar with tap 4 L",
+            "ProductCode": "SK4LSP",
+            "Description": "A glass jar with a tap, perfect for serving water, lemonade, juice, iced tea, flavored water, but also punch. Thanks to the tap, you can easily serve your favorite drinks in an effective way. We will use the jar both in the garden and during family gatherings. Thanks to the closed lid, no insects can get into our drink. It is made of materials that are safe for health and food-neutral. Not suitable for hot drinks.",
+            "Family": "Słoiki z kranem",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref28"
+            },
+            "Name": "Food dryer",
+            "ProductCode": "SDG5S",
+            "Description": "Very practical food dryer with a power of 550 W. Suitable for drying mushrooms, vegetables, fruits and herbs. Due to the dehydration process, these products are easy to preserve. The food dryer works really quietly and its noise does not disturb everyday life. Large pallets allow you to put a lot of details on them. At the same time, due to the fact that the pallets can be placed on top of each other, the device takes up little space. Due to the 2 levels of temperature control, the dehydration process can be performed with varying intensities. For safety reasons, the dehumidifier is equipped with an overheating protection system that automatically shuts off the appliance if necessary.",
+            "Family": "Suszarki do żywności",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref29"
+            },
+            "Name": "Meat Tenderiser Fackelmann 32 cm.",
+            "ProductCode": "TDM29A",
+            "Description": "Meat tenderizer made of beech wood and aluminium. 32 cm long, this meat tenderizer is perfect for tenderizing and nerving your piece of meat. Made of very good quality beech wood, the tenderizer is easy to handle and comfortable to handle.",
+            "Family": "Tłuczki do mięsa",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref30"
+            },
+            "Name": "Vacuum cleaner SUMAM",
+            "ProductCode": "VM6011",
+            "Description": "Dimensions: 470 x 315 x 255 mm\r\nType: With bag\r\nWeight: 7.7\r\nPower: 700\r\nNoise: 68\r\nColor: White\r\nRange: 10\r\nCapacity:\t3\r\nCable length: 7\r\nFilter: EPA 12\r\nSpecial Functions:\t\r\n- Accessory storage\r\n- Vacuum protection without bag",
+            "Family": "Odkurzacze workowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref31"
+            },
+            "Name": "Ball Valve 3/4",
+            "ProductCode": "ZKS34PN30",
+            "Description": "Item Dimensions (LxWxH): ‎2.5 x 0.75 x 0.75 inches.\r\nValve Type: ‎Ball valve\r\nSize:\t‎3/4 in.\r\nInlet Connection Type: Full port",
+            "Family": "Zawory kulowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref32"
+            },
+            "Name": "High pot with stainless steel lid",
+            "ProductCode": "GW63ZP",
+            "Description": "Professional high pot with lid, measuring 36x36 cm and capacity 36.6 l.\r\nThis pot is designed for professional use in the catering industry. It is perfect for preparing all kinds of dishes.\r\nIt is made of high quality 21/0 stainless steel, specially developed for use in gastronomy. The most important advantage of pots made of this type of steel is the heat conduction by up to 30% higher compared to standard pots made of 304 steel. They are also characterized by increased resistance to mechanical damage and the action of organic acids and detergents. That is why they are dishwasher-safe and resistant to intensive scrubbing of surfaces.\r\nImportantly, pots made of 21/0 steel do not contain manganese and nickel harmful to human health.\r\nThe special design of the capsule bottom distributes heat evenly over the entire surface of the bottom, which increases the degree of heat utilization and cooking efficiency. This translates directly into their quality and comfort of the cook's work. This solution also reduces the risk of food burning.",
+            "Family": "Garnki ze stali nierdzewnej",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref33"
+            },
+            "Name": "Radiator 450mm x 400mm",
+            "ProductCode": "GPB30S",
+            "Description": "With a slim profile and smooth, white finish, radiator will blend into any room in the house, to provide guaranteed heating performance. Strictly controlled independent laboratory testing ensures that the radiators are guaranteed to perform to a maximum working pressure of 145 psi (10 bar), and conform to BS EN 442, the European Standard for radiators.",
+            "Family": "Grzejniki panelowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref34"
+            },
+            "Name": "Chest of drawers",
+            "ProductCode": "KR1203S",
+            "Description": "This chest of drawers, featuring a minimalist design, will make a practical as well as highly decorative addition to your home. With 3 drawers, the sideboard provides ample storage space for books, multimedia appliances and other items. The sturdy tabletop is ideal for displaying decorative objects, photo frames, or potted plants. It can also be used as a low board, side cabinet, etc. Thanks to the premium engineered wood material, this sideboard is built to last. The drawer cabinet is easy to clean with a damp cloth.\r\nColor: White and sonoma oak\r\nDimensions: 70 x 40 x 76 cm (W x D x H)\r\nMaterial: Chipboard",
+            "Family": "Komody z szufladami",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref35"
+            },
+            "Name": "Bedside table",
+            "ProductCode": "SNDS402S",
+            "Description": "Bring a classic charm to your interior with our bedside table! Made of high quality cardboard, this bedside table is sturdy, durable and versatile. As a universal chest, you can also use it as a coffee table in the living room. 2 drawers provide ample storage space to keep your magazines, books, remote controls and other small items well organized and within easy reach. In addition, this bedside table is easy to clean with a damp cloth. Brighten up your interior with our elegant bedside table! Easy to assemble with included mounting material.\r\nColour: white and Sonoma oak.\r\nMaterial: Particle board \r\nDimensions: 40 x 30 x 40 cm (W x D x H).",
+            "Family": "Szafki nocne",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref36"
+            },
+            "Name": "Portable LED Floodlight",
+            "ProductCode": "LHZ40W",
+            "Description": "Specification:\r\n- Material: Aluminum, glass, stainless steel\r\n- Number of LED: 24\r\n- Package: Color box\r\n- Full power working time: 4-5 hours\r\n- Power: 30W\r\n- Charging time: 5-6 hours\r\n- Waterproof grade: IP65\r\n- Weight: 760g\r\n- Applicable scene: Family, emergency, outdoor activities, construction site, etc.",
+            "Family": "Lampy halogenowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref37"
+            },
+            "Name": "Recessed lamp",
+            "ProductCode": "OIP673W",
+            "Description": "Round, hermetic IP67 recessed LED luminaire Elkim company. Small size fitting has a very wide range of applications. It can be installed in ceilings, walls or directly in the substrate. It is made of aluminum and finished in aluminum. The light source is the LED Power LED CREE 3W. The luminaire is available with the following light colors: warm white, cool white, natural white, blue and red. It is designed for installation in the plasterboard (hole diameter 42 mm) in the wall or substrate using a tin plate (hole diameter 45 mm). Mounting box and clips are attached to the kit. With elevated IP67 this luminaire can be used as lighting in bathrooms or showers on the outside as lighting facades of buildings or driveways and sidewalks.\r\nLight source: 1 x CREE LED Power.\r\nPower: 1 x 3W.\r\nThe method of erecting a wall, flush or floor, or ceiling flush mortise (mounting terminals in the back box or included).\r\nDimensions: 55 mm (top diameter) x 42 mm (bottom diameter) x 53 mm (depth).\r\nMaterial: Aluminum",
+            "Family": "Oprawy oświetleniowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref38"
+            },
+            "Name": "AKORD Lima Kitchen Furniture Set",
+            "ProductCode": "ZMK63AL",
+            "Description": "The Lima kitchen furniture set from Akord offers space for everything you need for preparing meals - crockery, cutlery, food. This furniture set includes both wall cabinets and standing cabinets. Here you will also find practical drawers. It is perfect for a small room. It is spacious and does not visually crush the arrangement.\r\nProduct dimensions: 44.5D x 180W x 58H cm.",
+            "Family": "Meble kuchenne",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref39"
+            },
+            "Name": "Bathroom cabinet",
+            "ProductCode": "R9864C",
+            "Description": "With this washing machine cabinet, you can create and optimally use additional storage space in the bathroom. The clean lines and sleek design make it blend into your bathroom perfectly.\r\nMade of chipboard, the bathroom cupboard is sturdy and durable. This cabinet is easy to clean with damp cloth. This washing machine cupboard is easy to assemble with included mounting materials.\r\nThe 2 open compartments and 2 doors offer ample storage room for keeping your laundry utensils, cleaning supplies, toiletries and other items well organized and within reach.\r\nYou can choose the suitable color according to the bathroom style, which not only brings you extra storage space, but also makes your bathroom look cleaner and tidy.\r\nColor: White and sonoma oak\r\nMaterial: Chipboard\r\nDimensions: 64 x 30 x 180 cm (W x D x H)\r\nWith 2 doors and 2 open compartments.\r\nMounting materials included.",
+            "Family": "Regały łazienkowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref40"
+            },
+            "Name": "Laser distance meter",
+            "ProductCode": "M04022",
+            "Description": "This Laser Distance Meter adopts laser technology to measure distance, area and volume accurately, quickly and conveniently. It has a wide measuring range 120m and high accuracy of ±2mm. In addition, this meter can make use of Pythagorean Theorem to measure distances or lengths indirectly when direct measurement is not feasible.\r\nThis laser distance meter also has various functions including continuous measurement, addition/subtraction function and Max/Min measurements. Other main features are including 100 units memories, switchable units (metre, inch & feet) & backlight LCD with multi-line display. The bubbles level equipped can be used as a spirit level tool.",
+            "Family": "Dalmierze laserowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref41"
+            },
+            "Name": "Blanket 220x200",
+            "ProductCode": "KP22X20",
+            "Description": "The fabric we utilize for the blanket is 100% microfiber polyester which has double-faced plush with graceful luster. The fluffy blanket allows you to enjoy the coziness on both sides of this blanket and improves your sleep. The thickness of the throw blanket is just right, you can use it as bed sheet, couch blanket, baby stroller blanket, nap sleep blanket. Great for outdoor use such as camping, travelling, study room. And you can wrap youself in the flannel fleece blanket on sofa for watching TV series, reading, having a comfy nap in the office with our cozzy blanket.",
+            "Family": "Koce z poliestru",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref42"
+            },
+            "Name": "Ceramic Dinnerware Set",
+            "ProductCode": "VB32S8O",
+            "Description": "The dinnerware set includes 8 pieces 10.5-Inch dinner plates, 8 pieces 8.45-Inch dessert plates, 8 pieces 6-Inch bowls, 8 piece 12oz mugs. The dinner plate set wide enough to hold a variety of food, great size for dessert, fruit dip, snack, appetizers, raw veggies, sushi, cupcakes, assorted cheese, desserts and any other goodies you want.",
+            "Family": "Zastawy stołowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref43"
+            },
+            "Name": "Pendant lamp Satipo",
+            "ProductCode": "LW3ZS",
+            "Description": "Stylish pendant lamp with an original design from the series Satipo, made of a black colour metal base and three ribbed, transparent glass shades with brass colour decorative metal details. A modern solution for comfortable lighting in your living room, dining room, hotel or restaurant.",
+            "Family": "Lampy wiszące",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref44"
+            },
+            "Name": "Carpenter's hammer",
+            "ProductCode": "13M440",
+            "Description": "Thecarpenters' hammer is intended for construction and renovation work, carpentry and joinery. The hammer's point is made of forged, hardened and subsequently painted steel. The hammer head is designed for driving and pulling nails. One end of the hammer hastwo claws (shorter and longer), the longer claw is used for pulling boards, undermining or pulling out nails. The other sideof the shank has a mag nes, which helps hold the nail in place before it is hammered in. The handle is made of glass fibre and is additionallyrubber-linedin the grip area.",
+            "Family": "Młotki ciesielskie",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref45"
+            },
+            "Name": "Drill driver Makita",
+            "ProductCode": "WMK10",
+            "Description": "- Compact and ergonomic design with only 179 mm length.\r\n- Powerful engine for high working speed and high torque.\r\n- 20-fold torque adjustment plus drilling step.\r\n- Keyless chuck for one-hand operation and spindle lock.\r\n- LED work light.\r\n- In carrying case with ONE 2.0 Ah battery and quick charger.",
+            "Family": "Wiertarko-wkrętarki",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref46"
+            },
+            "Name": "Daylight spiral lamp",
+            "ProductCode": "5WG883",
+            "Description": "Economical and environmentally friendly.\r\nLight efficiency correspond 150W of a conventional bulb. Suitable for continuous operation due to cold light source (low warming). Operation free of flickering.",
+            "Family": "Świetlówki z czujnikiem zmierzchowym",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref47"
+            },
+            "Name": "Garden furniture set",
+            "ProductCode": "ZMDO5S",
+            "Description": "The stylish Corfu Holiday Kit provides users with the highest level of comfort. The set is characterized by a modern design inspired by a natural rattan weave. Sturdy and well-thought-out kit design ensures stability and optimal comfort of use. The set includes a double sofa, two armchairs and a table. The Corfu line is available in five colors and with comfortable pillows. The furniture is resistant to adverse weather conditions and UV rays.\r\nChair size: 75 x 70 x 79cm (2 pieces)\r\nSize of the double sofa: 128 x 70 x 79cm (1 piece)\r\nTable size: 77 x 57 x 42 cm\r\nPackage size: 120 x 82 x 62 cm\r\nWeight: 31.35 kg\r\nColor: Graphite Gray",
+            "Family": "Meble ogrodowe",
+            "IsActive": true,
+            "Default_VAT_Rate__c": "0.23",
+            "Status__c": "Active"
+        }
+    ]
+}

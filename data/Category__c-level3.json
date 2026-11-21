@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef25"
+            },
+            "Name": "Glass Vases",
+            "Parent_category__c": "@Category__cRef29"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef30"
+            },
+            "Name": "Plastic Vases",
+            "Parent_category__c": "@Category__cRef29"
+        }
+    ]
+}
