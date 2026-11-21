@@ -1,0 +1,30 @@
+{
+  "orgName": "Home & Garden Store",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "orderSettings": {
+      "enableOrders": true
+    },
+    "quoteSettings": {
+      "enableQuote": true
+    },
+    "caseSettings": {
+      "emailToCase": {
+        "enableEmailToCase": true
+      }
+    },
+    "languageSettings": {
+      "enableEndUserLanguages": true,
+      "enableTranslationWorkbench": true,
+      "enableICULocaleDateFormat": true,
+      "enableCanadaIcuFormat": true
+    }
+  }
+}
