@@ -1,8 +1,13 @@
 {
   "packageDirectories": [
     {
+      "versionName": "Initial data model",
+      "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "hgs-core",
+      "versionDescription": "Custom objects, fields, value sets and base permissions of Home & Garden Store",
+      "definitionFile": "config/project-scratch-def.json"
     },
     {
       "path": "unpackaged"
@@ -11,5 +16,9 @@
   "name": "hgs-core",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "66.0"
+  "sourceApiVersion": "66.0",
+  "packageAliases": {
+    "hgs-core": "0Hoak0000007o3JCAQ",
+    "hgs-core@0.1.0-1": "04tak000000x0QbAAI"
+  }
 }
