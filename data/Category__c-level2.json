@@ -1,0 +1,52 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef2"
+            },
+            "Name": "Living Room Furniture",
+            "Parent_category__c": "@Category__cRef19"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef5"
+            },
+            "Name": "Kitchen Furniture",
+            "Parent_category__c": "@Category__cRef19"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef15"
+            },
+            "Name": "Bedroom Furniture",
+            "Parent_category__c": "@Category__cRef19"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef16"
+            },
+            "Name": "Flowerpots",
+            "Parent_category__c": "@Category__cRef13"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef21"
+            },
+            "Name": "Bathroom Furniture",
+            "Parent_category__c": "@Category__cRef19"
+        },
+        {
+            "attributes": {
+                "type": "Category__c",
+                "referenceId": "Category__cRef29"
+            },
+            "Name": "Vases",
+            "Parent_category__c": "@Category__cRef13"
+        }
+    ]
+}

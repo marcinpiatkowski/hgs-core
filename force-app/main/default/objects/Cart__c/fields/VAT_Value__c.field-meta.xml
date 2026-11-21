@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>VAT_Value__c</fullName>
+    <description>Suma VAT Value z Cart Items.</description>
+    <externalId>false</externalId>
+    <label>VAT Value</label>
+    <summarizedField>Cart_Line_Item__c.VAT_Value__c</summarizedField>
+    <summaryForeignKey>Cart_Line_Item__c.Cart__c</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

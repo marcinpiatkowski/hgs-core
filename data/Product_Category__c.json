@@ -1,0 +1,572 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef1"
+            },
+            "Category__c": "@Category__cRef16",
+            "Product__c": "@Product2Ref19"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef2"
+            },
+            "Category__c": "@Category__cRef13",
+            "Product__c": "@Product2Ref19"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef3"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref19"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef4"
+            },
+            "Category__c": "@Category__cRef13",
+            "Product__c": "@Product2Ref20"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef5"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref20"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef6"
+            },
+            "Category__c": "@Category__cRef30",
+            "Product__c": "@Product2Ref18"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef7"
+            },
+            "Category__c": "@Category__cRef29",
+            "Product__c": "@Product2Ref18"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef8"
+            },
+            "Category__c": "@Category__cRef13",
+            "Product__c": "@Product2Ref18"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef9"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref18"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef10"
+            },
+            "Category__c": "@Category__cRef25",
+            "Product__c": "@Product2Ref21"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef11"
+            },
+            "Category__c": "@Category__cRef29",
+            "Product__c": "@Product2Ref21"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef12"
+            },
+            "Category__c": "@Category__cRef13",
+            "Product__c": "@Product2Ref21"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef13"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref21"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef14"
+            },
+            "Category__c": "@Category__cRef17",
+            "Product__c": "@Product2Ref3"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef15"
+            },
+            "Category__c": "@Category__cRef4",
+            "Product__c": "@Product2Ref3"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef16"
+            },
+            "Category__c": "@Category__cRef18",
+            "Product__c": "@Product2Ref22"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef17"
+            },
+            "Category__c": "@Category__cRef10",
+            "Product__c": "@Product2Ref22"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef18"
+            },
+            "Category__c": "@Category__cRef33",
+            "Product__c": "@Product2Ref23"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef19"
+            },
+            "Category__c": "@Category__cRef10",
+            "Product__c": "@Product2Ref23"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef20"
+            },
+            "Category__c": "@Category__cRef36",
+            "Product__c": "@Product2Ref25"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef21"
+            },
+            "Category__c": "@Category__cRef34",
+            "Product__c": "@Product2Ref25"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef22"
+            },
+            "Category__c": "@Category__cRef35",
+            "Product__c": "@Product2Ref26"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef23"
+            },
+            "Category__c": "@Category__cRef34",
+            "Product__c": "@Product2Ref26"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef24"
+            },
+            "Category__c": "@Category__cRef37",
+            "Product__c": "@Product2Ref27"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef25"
+            },
+            "Category__c": "@Category__cRef34",
+            "Product__c": "@Product2Ref27"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef26"
+            },
+            "Category__c": "@Category__cRef9",
+            "Product__c": "@Product2Ref31"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef27"
+            },
+            "Category__c": "@Category__cRef4",
+            "Product__c": "@Product2Ref31"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef28"
+            },
+            "Category__c": "@Category__cRef27",
+            "Product__c": "@Product2Ref33"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef29"
+            },
+            "Category__c": "@Category__cRef4",
+            "Product__c": "@Product2Ref33"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef30"
+            },
+            "Category__c": "@Category__cRef7",
+            "Product__c": "@Product2Ref32"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef31"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref32"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef32"
+            },
+            "Category__c": "@Category__cRef2",
+            "Product__c": "@Product2Ref34"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef33"
+            },
+            "Category__c": "@Category__cRef19",
+            "Product__c": "@Product2Ref34"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef34"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref34"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef35"
+            },
+            "Category__c": "@Category__cRef5",
+            "Product__c": "@Product2Ref38"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef36"
+            },
+            "Category__c": "@Category__cRef19",
+            "Product__c": "@Product2Ref38"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef37"
+            },
+            "Category__c": "@Category__cRef15",
+            "Product__c": "@Product2Ref35"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef38"
+            },
+            "Category__c": "@Category__cRef19",
+            "Product__c": "@Product2Ref35"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef39"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref35"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef40"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref38"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef41"
+            },
+            "Category__c": "@Category__cRef24",
+            "Product__c": "@Product2Ref29"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef42"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref29"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef43"
+            },
+            "Category__c": "@Category__cRef21",
+            "Product__c": "@Product2Ref39"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef44"
+            },
+            "Category__c": "@Category__cRef19",
+            "Product__c": "@Product2Ref39"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef45"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref39"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef46"
+            },
+            "Category__c": "@Category__cRef3",
+            "Product__c": "@Product2Ref41"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef47"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref41"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef48"
+            },
+            "Category__c": "@Category__cRef32",
+            "Product__c": "@Product2Ref42"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef49"
+            },
+            "Category__c": "@Category__cRef1",
+            "Product__c": "@Product2Ref42"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef50"
+            },
+            "Category__c": "@Category__cRef20",
+            "Product__c": "@Product2Ref30"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef51"
+            },
+            "Category__c": "@Category__cRef6",
+            "Product__c": "@Product2Ref30"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef52"
+            },
+            "Category__c": "@Category__cRef28",
+            "Product__c": "@Product2Ref40"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef53"
+            },
+            "Category__c": "@Category__cRef12",
+            "Product__c": "@Product2Ref44"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef54"
+            },
+            "Category__c": "@Category__cRef6",
+            "Product__c": "@Product2Ref44"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef55"
+            },
+            "Category__c": "@Category__cRef14",
+            "Product__c": "@Product2Ref43"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef56"
+            },
+            "Category__c": "@Category__cRef11",
+            "Product__c": "@Product2Ref43"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef57"
+            },
+            "Category__c": "@Category__cRef23",
+            "Product__c": "@Product2Ref37"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef58"
+            },
+            "Category__c": "@Category__cRef6",
+            "Product__c": "@Product2Ref40"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef59"
+            },
+            "Category__c": "@Category__cRef31",
+            "Product__c": "@Product2Ref45"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef60"
+            },
+            "Category__c": "@Category__cRef6",
+            "Product__c": "@Product2Ref45"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef61"
+            },
+            "Category__c": "@Category__cRef8",
+            "Product__c": "@Product2Ref36"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef62"
+            },
+            "Category__c": "@Category__cRef11",
+            "Product__c": "@Product2Ref36"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef63"
+            },
+            "Category__c": "@Category__cRef26",
+            "Product__c": "@Product2Ref46"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef64"
+            },
+            "Category__c": "@Category__cRef11",
+            "Product__c": "@Product2Ref37"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef65"
+            },
+            "Category__c": "@Category__cRef11",
+            "Product__c": "@Product2Ref46"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef66"
+            },
+            "Category__c": "@Category__cRef22",
+            "Product__c": "@Product2Ref47"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef67"
+            },
+            "Category__c": "@Category__cRef10",
+            "Product__c": "@Product2Ref47"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef68"
+            },
+            "Category__c": "@Category__cRef38",
+            "Product__c": "@Product2Ref28"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef69"
+            },
+            "Category__c": "@Category__cRef34",
+            "Product__c": "@Product2Ref28"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef70"
+            },
+            "Category__c": "@Category__cRef33",
+            "Product__c": "@Product2Ref24"
+        },
+        {
+            "attributes": {
+                "type": "Product_Category__c",
+                "referenceId": "Product_Category__cRef71"
+            },
+            "Category__c": "@Category__cRef10",
+            "Product__c": "@Product2Ref24"
+        }
+    ]
+}
